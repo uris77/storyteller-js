@@ -1,15 +1,6 @@
-# TDD - Grunt - BB - Archetype.
-This is a skeleton that can be used to quickly start a Marionettejs/Backbonejs utility/component. It was created out of
-a need to build re-usable components across projects using TDD. This is a customized version of https://github.com/uris77/tdd-grunt-archetype.
-
-__Note__: this was inspired by [Linemanjs](https://github.com/testdouble/lineman). If you need to build rich javascript
-front-end,please consider using __Linemanjs__. This utility is only for building small contained libraries that depend
-on Backbonejs and Marionettejs.
+#  Storyteller JS Version
 
 # Development
-Checkout the code:
-```
-$ git clone git@github.com:uris77/tdd-grunt-bb-archetype my_new_project_name
 ```
 1. Set up the dev environment after checking out the code:
 ```bash
